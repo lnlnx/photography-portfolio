@@ -6,6 +6,6 @@ export interface NavItem {
   
   export const navItems: NavItem[] = [
     { name: "PORTFOLIO", href: "/" },
-    { name: "ABOUT ME", href: "/about_me" },
+    { name: "ABOUT ME", href: "https://tingtingchen.vercel.app" },
   ];
   
