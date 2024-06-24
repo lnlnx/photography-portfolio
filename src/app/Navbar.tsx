@@ -12,7 +12,7 @@ const Navbar: React.FC = () => {
       <nav className="w-full">
         <div className="container mx-auto flex flex-wrap items-center md:flex-no-wrap">
           <div className="mr-4 md:mr-8">
-            <a href="/" className="text-2xl font-signika font-bold">SOPHIA WILLIAMS</a>
+            <a href="/" className="text-2xl font-signika font-bold">Tingting Chen</a>
           </div>
           <div className="ml-auto flex items-center justify-start md:hidden">
             <button 
